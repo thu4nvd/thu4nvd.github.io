@@ -1,19 +1,21 @@
 ---
 layout: post
 title: Compilations of SSO tools
+author: thu4nvd
+date: 2021-03-11 05:10:00 +0800
 subtitle: Tổng hợp một số công cụ hỗ trợ triển khai hệ thống đăng nhập tập trung một lần (SSO - Single Sign On)
-thumbnail-img: /assets/img/sso-v2.png
+categories: [Tutorials, Others]
 gh-badge: [star, fork, follow]
 tags: [sso, compilation]
 comments: true
 ---
 
-# SSO (Single Sign On) là gì?
+## SSO (Single Sign On) là gì?
 
 SSO (Single Sign On) là một cơ chế xác thực yêu cầu người dùng đăng nhập vào chỉ một lần với một tài khoản và mật khẩu để truy cập vào nhiều ứng dụng trong một phiên làm việc (session).
 ![sso-v2](/assets/img/sso-v2.png)
 
-# Tổng hợp một số công cụ hoặc thư viện
+## Tổng hợp một số công cụ hoặc thư viện
 
 | Vendor | Web page  | Github | 
 | :----|:----|:------------------ |

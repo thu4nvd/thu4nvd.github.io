@@ -12,6 +12,7 @@ tags: [skill, leader]
 Cách đây một tháng mình có tham gia lớp đào tạo Manager nội bộ của công ty. Trong khóa học có một module mình khá thú vị, với tên gọi là "Understand others". Trong module đó giới thiệu khái niệm "Four groups of behavior" mô tả tương ứng với màu sắc và hình dạng như sau:
 
 ![4-behaviors](/assets/img/4behaviors.png)
+_Four behaviours_
 
 Bắt đầu bằng một trò chơi với thẻ bài, mỗi thẻ bài sẽ thuộc vào một trong 4 nhóm tính cách đó và mọi người trao đổi các thẻ với nhau thông qua các câu nói chuyện ngắn. Nguyên tắc là cho đi các lá bài không hợp với mình và giữ lại các lá hợp với mình. Sau cùng số lượng lá thuộc nhóm nào áp đảo thì sẽ đặc trưng cho kiểu người đó.
 
@@ -21,8 +22,8 @@ Dưới đây là cách tính cách đặc trưng của mỗi nhóm.
 
 ### Blue cube 
 
-Has all the right angles
-A place for everything, and everything in it’s place
+Has all the right angles  
+A place for everything, and everything in it’s place  
 ```
 ▪ Formal (do things properly, by the rule book)
 ▪ Organised (create ways of working, which they edit and revise)
@@ -40,8 +41,8 @@ A place for everything, and everything in it’s place
 
 ### Red Piramyd
 
-Gets to the point
-There’s no substitute for winning
+Gets to the point  
+There’s no substitute for winning  
 ```
 ▪ Formal (do things properly, by the rule book)
 ▪ Smart (quick thinking and always looks the part)
@@ -59,8 +60,8 @@ There’s no substitute for winning
 
 ### Golden Slinky
 
-Fluid – Always Moving
-Everything, all over the place
+Fluid – Always Moving  
+Everything, all over the place  
 ```
 ▪ Informal (rules are there to be broken…)
 ▪ Bright (can think on their feet; never stuck for an answer)
@@ -79,8 +80,8 @@ straightaway)
 
 ### Green sphere
 
-A Circle of Friends
-Has time for everyone, except maybe themselves
+A Circle of Friends  
+Has time for everyone, except maybe themselves  
 ```
 ▪ Caring (care about you, care about themselves, care about everything)
 ▪ Comfortable (nice people to be around)
@@ -106,7 +107,8 @@ Dĩ nhiên bạn không phải nhớ nhiều như thế, mà hãy nhớ màu s�
 
 ### Với bản thân
 
-Nhận ra điểm mạnh yếu của bản thân. Mạnh thì củng cố mà yếu thì khắc phục.
+Nhận ra điểm mạnh yếu của bản thân.   
+Mạnh thì củng cố mà yếu thì khắc phục.  
 
 ### Với công việc
 

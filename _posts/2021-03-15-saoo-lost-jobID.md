@@ -2,6 +2,9 @@
 layout: post
 title: SA-OO Integration - Lost Job ID in SA Client
 subtitle: A issue on SA-OO integration
+author: thu4nvd
+date: 2021-03-15 05:10:00 +0800
+categories: [Tutorials, Automation]
 thumbnail-img: /assets/img/microfocus.png
 tags: [mfsa, mfoo]
 comments: true
@@ -10,11 +13,11 @@ comments: true
 We checked all the possible ways to find the JobIDs but not able to find in SA Client.
 Run Job from OO, then there is some flow it has Job ID shown on SA Client, but some are missing.
 
-# Issue Description
+## Issue 
 
 ### System Information
 
-
+Product: [Server Automation](https://docs.microfocus.com/itom/Server_Automation:2018.08/Standard_Install_Guide/InstallingAdditionalSliceComponentBundles) integrate with [Operations Orchestration](https://docs.microfocus.com/itom/Operations_Orchestration:10.80/Get_Started/Get_Started)
 SA Version: 10.60  
 OS details: RHEL  
 MM/Single core : Multimesh  
@@ -37,7 +40,7 @@ Run Job from OO, then there is some flow it has Job ID shown on SA Client, but s
 
 ![showID](/assets/img/0315-03.png)
 
-# Solution
+## Solution
 
 After managed node make it known OS from unknown OS it’s working fine and job not got failed and job id got created.
 

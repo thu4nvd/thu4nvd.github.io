@@ -10,6 +10,7 @@ tags: [mfsa, automation]
 
 ## Issue
 
+Product: [Server Automation](https://docs.microfocus.com/itom/Server_Automation:2018.08/Standard_Install_Guide/InstallingAdditionalSliceComponentBundles)  
 Unable to access SA Core primary from SA Client
 
 ![sa-client](/assets/img/saclient.png)

@@ -2,10 +2,9 @@
 layout: post
 title: Flake it till you make it
 author: thu4nvd
+date: 2021-02-26 05:10:00 +0800
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+categories: [Blogging, Book]
 tags: [books, test]
 ---
 
