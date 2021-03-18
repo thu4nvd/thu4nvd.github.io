@@ -3,7 +3,10 @@ layout: post
 title: Làm thế nào để phát triển thói quen viết hàng ngày
 subtitle: Reader is Leader, so Writer is..
 thumbnail-img: /assets/img/write.jpg
+date: 2021-03-16 20:10:00 +0800
+categories: [Life, Skill]
 tags: [write, skill]
+
 comments: true
 ---
 
