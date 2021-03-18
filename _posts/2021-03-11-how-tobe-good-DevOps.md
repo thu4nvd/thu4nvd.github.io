@@ -2,9 +2,8 @@
 layout: post
 title: How do I be a good DevOps engineer?
 subtitle: Struggling question from "Mukashi"
-cover-img: https://www.servicedeskshow.com/wp-content/uploads/2017/09/DevOps-concept-940x400.jpg
-thumbnail-img: /assets/img/devops-thumb.png
 gh-badge: [star, fork, follow]
+categories: [Blogging, howto]
 tags: [devops, howto]
 comments: true
 ---
