@@ -3,7 +3,7 @@ layout: post
 title: Four leadership personalities
 author: thu4nvd
 date: 2021-03-18 05:10:00 +0800
-categories: [Blogging, Skill]
+categories: [IT, Skill]
 tags: [skill, leader]
 ---
 

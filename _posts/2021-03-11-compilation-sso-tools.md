@@ -4,7 +4,7 @@ title: Compilations of SSO tools
 author: thu4nvd
 date: 2021-03-11 05:10:00 +0800
 subtitle: Tổng hợp một số công cụ hỗ trợ triển khai hệ thống đăng nhập tập trung một lần (SSO - Single Sign On)
-categories: [Tutorials, Others]
+categories: [IT, Others]
 gh-badge: [star, fork, follow]
 tags: [sso, compilation]
 comments: true

@@ -4,7 +4,7 @@ title: SA-OO Integration - Lost Job ID in SA Client
 subtitle: A issue on SA-OO integration
 author: thu4nvd
 date: 2021-03-15 05:10:00 +0800
-categories: [Tutorials, Automation]
+categories: [IT, Automation]
 thumbnail-img: /assets/img/microfocus.png
 tags: [mfsa, mfoo]
 comments: true

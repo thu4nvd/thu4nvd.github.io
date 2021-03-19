@@ -4,7 +4,7 @@ title: MFSA - Unable to connect SA Client to SA Core
 author: thu4nvd
 subtitle: in life of support MFSA
 date: 2021-03-17 05:10:00 +0800
-categories: [Tutorials, Automation]
+categories: [IT, Automation]
 tags: [mfsa, automation]
 ---
 
