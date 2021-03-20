@@ -40,6 +40,19 @@ Ideas is to go check _C:\Users\<user_login>\.oo\logs\studio.log_  first:
 
 With this error: **SSLPeerUnverifiedException** , basic ideas is to verify the client.truststore of Studio.
 
+This command to print the certificate information:
+```cmdline
+cd "C:\Program Files\Micro Focus\Operations Orchestration\java\bin" 
+keytool.exe -export -keystore "C:\Program Files\Micro Focus\Operations Orchestration\central\var\security\key.store" -alias tomcat -file central_public.cer
+keytool.exe -printcert -v -file central_public.cer
+```
+
+If on Linux, search for keytool by command:
+```shell
+find / -type f -name "keytool"
+```
+Also can idientify the location of installation binary. 
+
 ### Document guide
 
 Refer: [Security_Hardening_OO/Import_Certificate_to_Debugger](https://docs.microfocus.com/itom/Operations_Orchestration:10.80/Administer/Security_Hardening_OO/Import_Certificate_to_Debugger)
