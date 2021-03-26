@@ -14,6 +14,9 @@ Cách đây một tháng mình có tham gia lớp đào tạo Manager nội bộ
 ![4-behaviors](/assets/img/4behaviors.png)
 _Four behaviours_
 
+![4-behaviors](https://photos.google.com/search/_tra_/photo/AF1QipMEUBuOXTq3agK5-XRtMKJEjuqkJSMK1Tuh19Jh)
+_Four behaviours_
+
 Bắt đầu bằng một trò chơi với thẻ bài, mỗi thẻ bài sẽ thuộc vào một trong 4 nhóm tính cách đó và mọi người trao đổi các thẻ với nhau thông qua các câu nói chuyện ngắn. Nguyên tắc là cho đi các lá bài không hợp với mình và giữ lại các lá hợp với mình. Sau cùng số lượng lá thuộc nhóm nào áp đảo thì sẽ đặc trưng cho kiểu người đó.
 
 Tham khảo thêm tại [đây](https://ericgeiger.com/2015/09/four-leadership-personalities-what-color-are-you/)
