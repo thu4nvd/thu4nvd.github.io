@@ -11,11 +11,9 @@ tags: [skill, leader]
 
 Cách đây một tháng mình có tham gia lớp đào tạo Manager nội bộ của công ty. Trong khóa học có một module mình khá thú vị, với tên gọi là "Understand others". Trong module đó giới thiệu khái niệm "Four groups of behavior" mô tả tương ứng với màu sắc và hình dạng như sau:
 
-![4-behaviors](/assets/img/4behaviors.png)
+![4-behaviors](/assets/img/4behaviors.PNG)
 _Four behaviours_
 
-![4-behaviors](https://photos.google.com/search/_tra_/photo/AF1QipMEUBuOXTq3agK5-XRtMKJEjuqkJSMK1Tuh19Jh)
-_Four behaviours_
 
 Bắt đầu bằng một trò chơi với thẻ bài, mỗi thẻ bài sẽ thuộc vào một trong 4 nhóm tính cách đó và mọi người trao đổi các thẻ với nhau thông qua các câu nói chuyện ngắn. Nguyên tắc là cho đi các lá bài không hợp với mình và giữ lại các lá hợp với mình. Sau cùng số lượng lá thuộc nhóm nào áp đảo thì sẽ đặc trưng cho kiểu người đó.
 
