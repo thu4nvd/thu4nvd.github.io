@@ -14,6 +14,8 @@ tags: [french]
 
 Votre père, commerçant, vous charge d'écrire une lettre à un ami en province pour lui demander des renseignements sur un client qui désire traiter avec lui une affaire importante.  
 
+![demande](https://www.amf-france.org/sites/default/files/styles/banner_mobile/public/2020-02/hub_epargnants_0_0.jpg?h=d0d4e036&itok=CXq5945r)
+
 ### 📝Texte
 
 Saigon, le 11 octobre 199x.  

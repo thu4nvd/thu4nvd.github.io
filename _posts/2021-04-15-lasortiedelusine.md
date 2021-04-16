@@ -17,6 +17,8 @@ L'usine va fermer.
 Les ouvriers sortent.  
 Décrivez la scène. 
 
+![sortiedelusine](https://media.gettyimages.com/photos/ouvriers-la-sortie-de-lusine-de-dionbouton-puteaux-dans-les-en-picture-id949554280?s=2048x2048)
+
 ### 📝Texte
 
 Six heures du soir.  

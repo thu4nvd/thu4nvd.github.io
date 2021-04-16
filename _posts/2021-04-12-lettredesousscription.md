@@ -14,6 +14,8 @@ tags: [french]
 
 Un commité de secours vous a chargé d'ecrire à une dame charitable, une lettre de souscription en faveur des sinistrés de l'inondation.  
 
+![charitable](https://lh3.googleusercontent.com/proxy/qfcL1BV0ZCu40E8DVq5ZATW_rRmNa5q4VD7r2dHhQDNGsr12lHx57COSTGbi8JbYOEsyC6XIQHvOSiX_qqWBFs3sEGL9ogIy19RCP-jqcYWfi0EKxrZF)
+
 ### 📝Texte
 
 Saigon, le 3 novembre 199..  
